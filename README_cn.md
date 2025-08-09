@@ -17,6 +17,23 @@
 
 [IBM Storage Ceph for Beginners](https://community.ibm.com/community/user/viewdocument/ibm-storage-ceph-for-beginners?CommunityKey=1142f81e-95e4-4381-95d0-7977f20d53fa&tab=librarydocuments)
 
+### 💡Ceph的历史
+
+- [Ceph 各版本特性对比与演进分析](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ten%20Years%20of%20Ceph%3A%20The%20Evolution%20Journey%20from%20Nautilus%20to%20Squid.md)
+  - [Ceph这六年: 从Nautilus to Squid](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/zh-cn/Ceph%20%E5%90%84%E7%89%88%E6%9C%AC%E7%89%B9%E6%80%A7%E5%AF%B9%E6%AF%94%E4%B8%8E%E6%BC%94%E8%BF%9B%E5%88%86%E6%9E%90.md)
+  - [Tentacle](https://ceph.io/assets/pdfs/events/2025/ceph-day-london/02%20Ceph%20Day%20London%20Keynote%20-%20State%20of%20Ceph.pdf)
+  - [Squid](https://ceph.io/assets/pdfs/events/2024/ceph-days-nyc/Diving%20Deep%20with%20Squid.pdf)
+  - [reef]
+  - [Quincy](https://42on.com/ceph-quincy-a-look-into-the-future/)
+- [Ceph RBD Turns 15: A Story of Open Source Creation](https://www.infoq.com/articles/ceph-rbd-open-source/)
+- [Ceph: 20 Years of Cutting-Edge Storage at the Edge](https://thenewstack.io/ceph-20-years-of-cutting-edge-storage-at-the-edge/)
+- [Ceph：存储届的Linux](https://www.snia.org/sites/default/files/CSI/Ceph-The-Linux-of-Storage-Today.pdf)
+
+### Ceph在AI/ML(人工智能)领域应用的研究
+
+- [AI&ML时代的存储利器Ceph.md](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/zh-cn/AI%26ML%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%98%E5%82%A8%E5%88%A9%E5%99%A8Ceph.md)
+- [更多issues: ceph in AL/ML](https://github.com/wuhongsong/ceph-deep-dive/issues/19)
+
 ### 🏗️ [架构分析](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Architecture-Analysis)
   
 * [OSD架构解析](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Architecture-Analysis/zh-cn/OSD.md)
