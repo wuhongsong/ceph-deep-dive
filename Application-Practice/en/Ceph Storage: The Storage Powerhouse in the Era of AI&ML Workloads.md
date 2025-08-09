@@ -1,4 +1,4 @@
-Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads
+# Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads
 
 **Abstract**  
 AI/ML training, inference, and related processes place unprecedented demands on storage performance.  
