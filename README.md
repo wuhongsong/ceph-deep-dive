@@ -34,11 +34,15 @@
 - [Ceph: 20 Years of Cutting-Edge Storage at the Edge](https://thenewstack.io/ceph-20-years-of-cutting-edge-storage-at-the-edge/)
 - [Ceph：The Linux Of Storage Today](https://www.snia.org/sites/default/files/CSI/Ceph-The-Linux-of-Storage-Today.pdf)
 
-### Ceph in AI/ML
+### Scenarios
+#### Ceph in AI/ML
 
 - [Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ceph%20Storage%3A%20The%20Storage%20Powerhouse%20in%20the%20Era%20of%20AI%26ML%20Workloads.md)
 - [more issues: ceph in AL/ML](https://github.com/wuhongsong/ceph-deep-dive/issues/19)
+  
+#### Ceph For K8s(CNCF)
 
+- [Ceph For K8s(CNCF)](https://github.com/wuhongsong/ceph-deep-dive/issues/25)
 
 ### 🏗️ [Architecture Analysis](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Architecture-Analysis)
 
