@@ -130,8 +130,9 @@
 
 * Ceph vs. JuiceFS vs. Alluxio vs. CubeFS vs Daos vs. ?
 
-**more see above link**
+### Others
 
+- [AI market Map](https://github.com/joylarkin/Awesome-AI-Market-Maps?tab=readme-ov-file)
 
 
 ## 🤝 Contributing
