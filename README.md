@@ -96,6 +96,7 @@
 ####  💡 Ceph Practice Online
 
 - [Cephadm: Activate existing OSDs](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383819845)
+- [Cephadm: migrate block.db/block.wal to new device](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383839751)
 
 **more see above link**
 
