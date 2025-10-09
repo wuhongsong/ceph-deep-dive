@@ -95,6 +95,7 @@
 
 ####  💡 Ceph Practice Online
 
+- [Cephadm: Activate existing OSDs](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383819845)
 
 **more see above link**
 
