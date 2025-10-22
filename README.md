@@ -38,7 +38,11 @@
 #### Ceph in AI/ML
 
 - [Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ceph%20Storage%3A%20The%20Storage%20Powerhouse%20in%20the%20Era%20of%20AI%26ML%20Workloads.md)
-- [more issues: ceph in AL/ML](https://github.com/wuhongsong/ceph-deep-dive/issues/19)
+- [Ceph Storage in a World of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169771924)
+- [Optimizing Ceph Object Storage for Analytics and AL/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169802181)
+- [Performance of CephFS for HPC and AI](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3178121982)
+- [Connecting Ceph Storage to AI with Clyso](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169919622)
+- [Canonical: Storage For Ai](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169890069)
   
 #### Ceph For K8s(CNCF)
 
