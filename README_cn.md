@@ -31,8 +31,12 @@
 
 ### Ceph在AI/ML(人工智能)领域应用的研究
 
-- [AI&ML时代的存储利器Ceph.md](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/zh-cn/AI%26ML%E5%B7%A5%E4%BD%9C%E8%B4%9F%E8%BD%BD%E6%97%B6%E4%BB%A3%E7%9A%84%E5%AD%98%E5%82%A8%E5%88%A9%E5%99%A8Ceph.md)
-- [更多issues: ceph in AL/ML](https://github.com/wuhongsong/ceph-deep-dive/issues/19)
+- [Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ceph%20Storage%3A%20The%20Storage%20Powerhouse%20in%20the%20Era%20of%20AI%26ML%20Workloads.md)
+- [Ceph Storage in a World of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169771924)
+- [Optimizing Ceph Object Storage for Analytics and AL/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169802181)
+- [Performance of CephFS for HPC and AI](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3178121982)
+- [Connecting Ceph Storage to AI with Clyso](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169919622)
+- [Canonical: Storage For Ai](https://github.com/wuhongsong/ceph-deep-dive/issues/19#issuecomment-3169890069)
 
 ### 🏗️ [架构分析](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Architecture-Analysis)
   
