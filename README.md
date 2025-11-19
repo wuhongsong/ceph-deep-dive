@@ -14,15 +14,15 @@
 
 
 
-## 📖 Featured Articles
+## Featured Articles
 
-### 🔍 Ceph Beginner’s Guide
+### Ceph Beginner’s Guide
 
 * [Beginner’s Guides](https://docs.ceph.com/en/latest/start/beginners-guide/)
 
 * [IBM Storage Ceph for Beginners](https://community.ibm.com/community/user/viewdocument/ibm-storage-ceph-for-beginners?CommunityKey=1142f81e-95e4-4381-95d0-7977f20d53fa&tab=librarydocuments)
 
-### 💡Ceph History
+### Ceph History
 
 - [Detail: Ceph Release：The evolution history ](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ten%20Years%20of%20Ceph%3A%20The%20Evolution%20Journey%20from%20Nautilus%20to%20Squid.md)
   - [Six Years of Ceph: The Evolution Journey from Nautilus to Squid](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Six%20Years%20of%20Ceph%3A%20The%20Evolution%20Journey%20from%20Nautilus%20to%20Squid.md)
@@ -34,7 +34,7 @@
 - [Ceph: 20 Years of Cutting-Edge Storage at the Edge](https://thenewstack.io/ceph-20-years-of-cutting-edge-storage-at-the-edge/)
 - [Ceph：The Linux Of Storage Today](https://www.snia.org/sites/default/files/CSI/Ceph-The-Linux-of-Storage-Today.pdf)
 
-### 🔍 Scenarios
+### Scenarios
 #### Ceph in AI/ML
 
 - [Ceph Storage: The Storage Powerhouse in the Era of AI/ML Workloads](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Application-Practice/en/Ceph%20Storage%3A%20The%20Storage%20Powerhouse%20in%20the%20Era%20of%20AI%26ML%20Workloads.md)
@@ -48,7 +48,7 @@
 
 - [Ceph For K8s(CNCF)](https://github.com/wuhongsong/ceph-deep-dive/issues/25)
 
-### 🏗️ [Architecture Analysis](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Architecture-Analysis)
+### [Architecture Analysis](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Architecture-Analysis)
 
 - [CephFS-MDS System Architecture Overview](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Architecture-Analysis/en/CephFS-MDS%20System%20Architecture%20Overview.md)
 - [OSD System Architecture Overview](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Architecture-Analysis/en/OSD.md)
@@ -60,9 +60,9 @@
 *  others, add later, Your contributions are warmly welcome
 
   
-### 🛠️ [Practice, application](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Application-Practice)
+###  [Practice, application](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Application-Practice)
 
-####  💡 Who Are Use Ceph
+####  Who Are Use Ceph
 
 - [Cern](https://indico.cern.ch/event/1457076/attachments/2934445/5156641/Ceph,%20Storage%20for%20CERN%20Cloud.pdf)
 - [DigitalOcean](https://ceph.io/assets/pdfs/events/2024/ceph-days-nyc/2024%20Ceph%20Day%20NYC%20How%20we%20Operate%20Ceph%20at%20Scale.pdf)
@@ -77,7 +77,7 @@
 
 - others, add later, Your contributions are warmly welcome
 
-####  🛠️ performance tune
+####  performance tune
 
 * [Ceph tune](https://github.com/wuhongsong/ceph-deep-dive/issues/3)
 * [Ceph Tentacle Erasure Coding Enhancements](https://github.com/wuhongsong/ceph-deep-dive/blob/main/Distributed-Storage/en/Ceph%20Tentacle%20Erasure%20Coding%20Enhancements.md)
@@ -89,7 +89,7 @@
 
 * [Designing and Tuning for All-Flash Ceph RBD Storage](Application-Practice/en/Ceph-Days-NYC-2024-Designing-and-Tuning-for-All-Flash-Ceph-RBD-Storage.pdf)
   
-#### 🛠️ [Operation and maintenance skills](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Operation-Skills)
+#### [Operation and maintenance skills](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Operation-Skills)
 
 - [useful scripts from 45drives](https://scripts.45drives.com/)
 
@@ -98,7 +98,7 @@
 - [Practical Guide: A Summary of Commonly Used Tools in Ceph](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Operation-Skills)
 
 
-####  💡 Ceph Practice Online
+####  Ceph Practice Online
 
 - [Cephadm: Activate existing OSDs](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383819845)
 - [Cephadm: migrate block.db/block.wal to new device](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383839751)
@@ -106,12 +106,12 @@
 
 **more see above link**
 
-### 🔍 [Source Code Analysis](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Code-Analysis)
+###  [Source Code Analysis](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Code-Analysis)
 
 
 * [BlueStore](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Code-Analysis)
 
-🤝 others, add later, Your contributions are warmly welcome.
+others, add later, Your contributions are warmly welcome.
 
 * [CephFS-Kclient](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Code-Analysis)
 * [CephFS-MDS](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Code-Analysis)
@@ -121,7 +121,7 @@
 
 
 
-### 📖 [Resesrch For Ceph(papers & presentations)](https://github.com/wuhongsong/ceph-deep-dive/issues/7)
+###  [Resesrch For Ceph(papers & presentations)](https://github.com/wuhongsong/ceph-deep-dive/issues/7)
 
 - [File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 - [Ceph: A Journey to 1 TiB/s](https://ceph.io/en/news/blog/2024/ceph-a-journey-to-1tibps/)
@@ -130,7 +130,7 @@
 **more see above link**
 
   
-### 📖 [Distributed-Storage Research](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Distributed-Storage)
+###  [Distributed-Storage Research](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Distributed-Storage)
 
 * [From.deepseek-3FS.to.AI.Storage](https://github.com/wuhongsong/Ceph-Learn-Notes/blob/main/Distributed-Storage/en/From.deepseek-3FS.to.AI.Storage.md)
 * [linux kernel docs](https://lwn.net/Kernel/Index/)
@@ -143,7 +143,7 @@
 - [AI market Map](https://github.com/joylarkin/Awesome-AI-Market-Maps?tab=readme-ov-file)
 
 
-## 🤝 Contributing
+##  Contributing
 
 We warmly welcome community contributions! Whether it's:
 
