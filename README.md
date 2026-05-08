@@ -101,9 +101,11 @@
 
 ####  Ceph Practice Online
 
-- [Cephadm: Activate existing OSDs](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383819845)
+- [ceph issue encountered](https://github.com/wuhongsong/ceph-deep-dive/issues/2)
+-  [Cephadm: Activate existing OSDs](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383819845)
 - [Cephadm: migrate block.db/block.wal to new device](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383839751)
 - [Cephadm: change public network](https://github.com/wuhongsong/ceph-deep-dive/issues/29#issuecomment-3383842250)
+  
 
 **more see above link**
 
