@@ -98,6 +98,7 @@
 - [useful scripts from Cern](https://gitlab.cern.ch/ceph/ceph-scripts)
 
 - [Practical Guide: A Summary of Commonly Used Tools in Ceph](https://github.com/wuhongsong/ceph-deep-dive/tree/main/Operation-Skills)
+- [clyso script](https://github.com/clyso/otto)
 
 
 ####  Ceph Practice Online
